@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Nguyen Van Hung",
+    "address": "Ha Noi",
+    "sex": "nam",
+    "chemistryPoint": 9.0,
+    "physicalPoint": 8.0,
+    "mathPoint": 7.0,
+    "id": "001",
+    "school": "daihocsupham"
+  },
+  {
+    "name": "Nguyen Thi Hang",
+    "address": "Ha Noi",
+    "sex": "nu ",
+    "chemistryPoint": 7.0,
+    "physicalPoint": 9.0,
+    "mathPoint": 8.0,
+    "id": "002",
+    "school": "daihocsupham"
+  },
+  {
+    "name": "Nguyen Van A",
+    "address": "5",
+    "sex": "nam",
+    "chemistryPoint": 2.0,
+    "physicalPoint": 7.0,
+    "mathPoint": 6.0,
+    "id": "003",
+    "school": "daihocsupham"
+  },
+  {
+    "name": "Thuan Nguyen",
+    "address": "Ha Noi",
+    "sex": "nam",
+    "chemistryPoint": 4.0,
+    "physicalPoint": 5.0,
+    "mathPoint": 4.0,
+    "id": "004",
+    "school": "daihocsupham"
+  }
+]

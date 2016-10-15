@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ManagerStudent_week3_1links.iml" filepath="$PROJECT_DIR$/.idea/modules/ManagerStudent_week3_1links.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ManagerStudent_week3_1links_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ManagerStudent_week3_1links_main.iml" group="ManagerStudent_week3_1links" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ManagerStudent_week3_1links_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ManagerStudent_week3_1links_test.iml" group="ManagerStudent_week3_1links" />
+    </modules>
+  </component>
+</project>
